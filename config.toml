@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://blissful-golick-fb1bb0.netlify.com/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Danny J. Liu | Agile Leader"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -71,8 +71,8 @@ copyright = "&copy;2018 Your Name"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/dannyjliu/"
 
   # Links List #3
   [[params.links]]
