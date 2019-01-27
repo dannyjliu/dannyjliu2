@@ -1,5 +1,5 @@
 +++
-title = "Danny J. Liu"
+title = "Danny . Liu"
 tagline = "Agile Leader. Front End Developer. Digital Marketer."
 +++
 
