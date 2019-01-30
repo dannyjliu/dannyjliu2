@@ -9,15 +9,15 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy;2019"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "Danny J. Liu"
+  description = "Danny Liu is an Agile Leader & Online Course Instructor."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "dannyjliu"
 
   # Favicon
   favicon = "favicon.ico"
@@ -51,11 +51,7 @@ copyright = "&copy;2018 Your Name"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        url = "mailto:dannyjliu@gmail.com"
 
   # Links List #2
   [[params.links]]
@@ -63,32 +59,24 @@ copyright = "&copy;2018 Your Name"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/dannyjliu/"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/dannyjliu"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "My Work"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "GitHub"
+        url = "https://github.com/dannyjliu"
 
       [[params.links.list3.link]]
         text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
