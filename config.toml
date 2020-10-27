@@ -72,8 +72,11 @@ copyright = "&copy;2019"
       heading = "Get Training"
 
       [[params.links.list3.link]]
-        text = "agiletactix"
+        text = "Agiletactix"
         url = "https://agiletactix.vipmembervault.com/"
+      [[params.links.list3.link]]
+        text = "Udemy"
+        url = "https://www.udemy.com/user/danny-liu-6/"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
