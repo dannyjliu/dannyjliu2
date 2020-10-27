@@ -69,15 +69,12 @@ copyright = "&copy;2019"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "My Work"
+      heading = "Get Training"
 
       [[params.links.list3.link]]
-        text = "GitHub"
-        url = "https://github.com/dannyjliu"
+        text = "agiletactix"
+        url = "https://agiletactix.vipmembervault.com/"
 
-      [[params.links.list3.link]]
-        text = "Courses"
-        url = "https://www.udemy.com/user/danny-liu-6/"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
