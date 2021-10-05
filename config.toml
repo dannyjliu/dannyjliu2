@@ -77,7 +77,9 @@ copyright = "&copy;2019"
       [[params.links.list3.link]]
         text = "Udemy"
         url = "https://www.udemy.com/user/danny-liu-6/"
-
+      [[params.links.list3.link]]
+        text = "Skillshare"
+        url = "https://www.skillshare.com/user/dannyliu"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
