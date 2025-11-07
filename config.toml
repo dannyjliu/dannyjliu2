@@ -63,8 +63,8 @@ copyright = "&copy;2019"
         url = "https://www.linkedin.com/in/dannyjliu/"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/dannyjliu"
+        text = "X"
+        url = "https://x.com/dannyjliu"
 
   # Links List #3
   [[params.links]]
@@ -73,7 +73,7 @@ copyright = "&copy;2019"
 
       [[params.links.list3.link]]
         text = "Agiletactix"
-        url = "https://agiletactix.com/courses-sign-up/"
+        url = "https://agiletactix.com"
       [[params.links.list3.link]]
         text = "Udemy"
         url = "https://www.udemy.com/user/danny-liu-6/"
