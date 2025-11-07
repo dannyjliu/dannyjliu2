@@ -200,27 +200,31 @@ body.page-template-page-fullsingle-split p {
   max-width: 640px;
   margin-top: auto;
   margin-bottom: auto;
-  width: 100%;
-  box-sizing: border-box;
 }
 @media (max-width: 1200px) and (min-width: 1025px) {
   .fs-split .split-content .split-content-vertically-center {
-    padding: 70px;
+    padding: 60px;
   }
 }
 @media (max-width: 1024px) and (min-width: 768px) {
   .fs-split .split-content .split-content-vertically-center {
     padding: 50px;
+    width: 100%;
+    box-sizing: border-box;
   }
 }
 @media (max-width: 767px) and (min-width: 600px) {
   .fs-split .split-content .split-content-vertically-center {
     padding: 40px;
+    width: 100%;
+    box-sizing: border-box;
   }
 }
 @media (max-width: 599px) {
   .fs-split .split-content .split-content-vertically-center {
     padding: 30px 20px;
+    width: 100%;
+    box-sizing: border-box;
   }
 }
 
