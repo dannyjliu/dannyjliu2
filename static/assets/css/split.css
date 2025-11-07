@@ -63,6 +63,7 @@ table {
   text-rendering: optimizeLegibility;
   -moz-font-feature-settings: "liga" on;
   margin: 0;
+  box-sizing: border-box;
 }
 
 img.alignright {
@@ -109,6 +110,8 @@ a:hover {
 }
 html {
   background-color: #061C30;
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 body.page-template-page-fullsingle-split {
@@ -120,9 +123,13 @@ body.page-template-page-fullsingle-split {
   letter-spacing: -0.2px;
   color: #848d96;
   animation: fadein 2s;
+  overflow-x: hidden;
+  max-width: 100%;
 }
 body.page-template-page-fullsingle-split p {
   color: #848d96;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .fs-split {
@@ -166,6 +173,8 @@ body.page-template-page-fullsingle-split p {
   max-width: 640px;
   margin-top: auto;
   margin-bottom: auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 @media (max-width: 1200px) {
   .fs-split .split-content .split-content-vertically-center {
@@ -177,12 +186,33 @@ body.page-template-page-fullsingle-split p {
     padding: 40px;
   }
 }
+@media (max-width: 500px) {
+  .fs-split .split-content .split-content-vertically-center {
+    padding: 20px;
+  }
+}
 
 .split-intro {
   font-weight: 600;
   font-size: 64px;
   line-height: 80px;
   letter-spacing: -2px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+@media (max-width: 800px) {
+  .split-intro {
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -1px;
+  }
+}
+@media (max-width: 500px) {
+  .split-intro {
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.5px;
+  }
 }
 .split-intro h1 {
   font-weight: 400;
@@ -195,11 +225,15 @@ body.page-template-page-fullsingle-split p {
 }
 .split-intro .tagline {
   color: #CCCCCC;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .split-bio {
   padding: 40px 0 20px 0;
   font-family: "Lora", serif;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 @media (max-width: 1200px) {
   .split-bio {
@@ -215,6 +249,8 @@ body.page-template-page-fullsingle-split p {
   color: #848d96;
   margin-bottom: 20px;
   line-height: inherit;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .split-bio a {
   color: #848d96;
