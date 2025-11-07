@@ -1,6 +1,6 @@
 +++
 title = "Danny J. Liu"
-tagline = "SAFe Agile Leader. Course Instructor."
+tagline = "Agile Transformation Coach | Course Creator | Analytics Consultant"
 +++
 
-As a strategic and tactical technology leader with an entrepreneurial spirit, I have over 20 years of success in the areas of project management, business and software development, logistics, infrastructure, and [online training]({{< ref "training.md">}}). Through applied lean design/systems thinking, I help companies ship digital products faster by influencing a culture of sustainable delivery through high performance agile teams.
+I help agile teams and enterprises accelerate software delivery through smart automation, AI, and data-driven insights. With 20+ years in lean systems thinking, I [teach]({{< ref "training.md">}}) agile professionals to work smarter—not harder—and build custom Jira/Power BI analytics solutions that turn project data into strategic advantage for better, faster decisions.
