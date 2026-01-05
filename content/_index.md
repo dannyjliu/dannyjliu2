@@ -1,6 +1,6 @@
 +++
 title = "Danny J. Liu"
-tagline = "Agile Analytics Architect. Atlassian Specialist."
+tagline = "Atlassian Automation Specialist. AI-Powered Agile Trainer."
 +++
 
-I transform Jira and Atlassian ecosystems into strategic intelligence systems. From workflow optimization to custom project performance dashboards and AI-powered automation, I help enterprises turn project data into executive visibility and competitive advantage—and teach agile professionals to master the tools that accelerate delivery. Strategy-to-implementation, no fluff.
+I've spent 15+ years architecting Atlassian ecosystems and building high-performing agile teams—from workflow automation to AI-powered dashboards. I help enterprises optimize their tools and train agile professionals to master the technical skills that make them indispensable. With 13,000+ students trained and a track record of turning Jira chaos into strategic clarity, I deliver real-world solutions, not theory.
