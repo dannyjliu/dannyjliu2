@@ -47,7 +47,7 @@ copyright = "&copy;2019"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "https://www.linkedin.com/in/dannyjliu/detail/recent-activity/posts/"
+        url = "https://agiletactix.ai/blog"
 
       [[params.links.list1.link]]
         text = "Email"
