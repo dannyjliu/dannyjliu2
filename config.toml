@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://blissful-golick-fb1bb0.netlify.com/"
 languageCode = "en-US"
-title = "Danny J. Liu | Agile Leader"
+title = "Danny J. Liu | Enterprise Delivery Automation & AI Architect"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -15,7 +15,7 @@ copyright = "&copy;2019"
 
   # Metadata for search engines and social sharing
   author = "Danny J. Liu"
-  description = "Danny Liu is an Agile Leader & Online Course Instructor."
+  description = "Danny Liu is an enterprise delivery automation and AI architect, podcast host, and Udemy instructor with 15+ years in agile and 20+ years in IT."
   shareImage = "images/social.jpg"
   twitterHandle = "dannyjliu"
 

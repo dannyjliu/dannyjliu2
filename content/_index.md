@@ -1,6 +1,6 @@
 +++
 title = "Danny J. Liu"
-tagline = "Atlassian Specialist. AI & Automation Trainer for Agile Pros."
+tagline = "Enterprise Delivery Automation & AI Architect"
 +++
 
-I've spent 15+ years building high-performing agile teams and mastering the technical tools that drive delivery—from Jira automation to AI-powered workflows and beyond. I help enterprises optimize their Atlassian ecosystems and train agile professionals to master the AI and automation skills that make them indispensable. With 13,000+ students trained and a track record of turning chaos into clarity, I deliver real-world solutions, not theory.
+I help enterprises eliminate manual delivery overhead — from Jira automation to AI-powered workflows. 15+ years in enterprise agile, 20+ years in IT. Currently embedded at a Fortune 500 company in a regulated industry. 13,000+ professionals trained on Udemy. Host of Career Optional podcast.
