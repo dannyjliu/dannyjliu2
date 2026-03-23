@@ -69,13 +69,16 @@ copyright = "&copy;2019"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Get Training"
+      heading = "What I'm Building"
 
       [[params.links.list3.link]]
-        text = "Agiletactix"
-        url = "https://agiletactix.com"
+        text = "Career Optional (Podcast)"
+        url = "https://careeroptional.ai"
       [[params.links.list3.link]]
-        text = "Udemy"
+        text = "AgileTactix (Consulting)"
+        url = "https://agiletactix.ai"
+      [[params.links.list3.link]]
+        text = "Udemy (Courses)"
         url = "https://www.udemy.com/user/danny-liu-6/"
       
   # The original template is released under the Creative Commons Attribution 3.0 License.
